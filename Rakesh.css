@@ -284,6 +284,7 @@ transition: transform 0.5s;
     color: azure;
     font-size: 15px;
     padding: 40px 0 20px;
+    font-family: 'Texturina', serif;
 }
 
 .footer h3{
